@@ -8,8 +8,12 @@ A simple python script that recognises faces and mark attendance for the recogni
 
 HOW TO USE:
 
-Save images of people as 'name1.jpg','name2.jpg'...... name1, name2, ... being name of the person!
+Save images of people in ImagesAttendance folderas 'name1.jpg','name2.jpg'...... name1, name2, ... being name of the person!
+
 Run the program.
+
 An excel file will be created, marked with the attendance for the faces it recognised.
+
 Keep all the images and the python script in the same folder as well as run the python script for the same folder.
+
 Excel will be created with the column as 'name' and 'time' of person marking attendance in  it.
